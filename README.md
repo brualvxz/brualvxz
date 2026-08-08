@@ -18,6 +18,8 @@
 ### 💻 Desenvolvimento
 
 <img 
+ display: flex;
+    gap: 10px;
 alt= "html"
 title= "HTML"
 width="30px"
@@ -26,6 +28,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 />    
  
 <img 
+ display: flex;
+    gap: 10px;
 alt= "CSS"
 title= "CSS"
 width="30px"
@@ -34,6 +38,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
   />
   
 <img
+ display: flex;
+    gap: 10px;
 alt= "php"
 title= "PHP"
 width="30px"
