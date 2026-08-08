@@ -17,9 +17,31 @@
 
 ### 💻 Desenvolvimento
 
-* HTML
-* CSS
-* PHP
+* <img 
+  align="left"
+alt= "php"
+title= "PHP"
+width="30px"
+style= "padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />          
+* <img 
+align="left"
+alt= "php"
+title= "PHP"
+width="30px"
+style= "padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+* <img
+align="left"
+alt= "php"
+title= "PHP"
+width="30px"
+style= "padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+
 
 ### 🗄️ Banco de Dados
 
@@ -40,7 +62,7 @@ Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais, desenvol
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brualvxz&layout=compact&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=brualvxz&layout=compact&langs_count=4&theme=dracula)
 
 ## 📫 Contato
 
