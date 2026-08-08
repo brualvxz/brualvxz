@@ -36,9 +36,11 @@
 
 Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais, desenvolvidos durante minha jornada na área de tecnologia.
 
-## 📊 GitHub
+---
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brualvxz&layout=compact&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=brualvxz&layout=compact&langs_count=4&theme=dracula)
+
+---
 
 ## 📫 Contato
 
